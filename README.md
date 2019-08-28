@@ -1,4 +1,4 @@
-# Conversor-Base-Binario-Octal-Hexadecimal
+# Conversor de base numérica
  <b> <h1>#  Projeto 1 - Conversor de base Binario/Octal/Hexadecimal </h1> </b>
  
  <hr size=8 width=50% align=right>
